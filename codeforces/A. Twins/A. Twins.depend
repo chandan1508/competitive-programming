@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694707427 source:c:\users\chandan\desktop\competitive programming\codeforces\a. twins\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
